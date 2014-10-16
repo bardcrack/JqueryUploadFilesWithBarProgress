@@ -111,7 +111,7 @@ echo "
 </script>
 </head>
 <body>
-<center><h2>File Upload Progress Bar. TheGridNet.com&#8482;</h2></center>
+<center><h2>File Upload Progress Bar. Julio Barcrack Blog&#8482;</h2></center>
 <div class='alert alert-info' id='msj_grande' style='display:none'>Archivo demasiado grande!</div>
 <div class='alert alert-success' id='msj_exito' style='display:none'>Archivo Subido con exito!</div>
 <div class='alert alert-danger' id='msj_error' style='display:none'>El archivo no pudo ser subido al servidor.</div>
