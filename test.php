@@ -33,6 +33,7 @@ echo "
 		//Le damos un efecto a la barra de progreso al momento de dar clic en upload
 		$('#progress').slideDown('collapse');
 		$('#bar').slideDown('collapse');
+		$('#porciento').slideDown('collapse');
 		var url='get_progress.php';
 		
 		//Extraermos con querySelector las propiedades de estos 5 objetos
